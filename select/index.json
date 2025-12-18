@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ネガティブ進化論",
+  "base_artist": "DECO*27",
+  "createdAt": "2025-12-18T08:49:11.673289Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ネガティブ進化論",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_ネガティブ進化論_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Theory of Negativity - ネガティブ進化論",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_Theory_of_Negativity_-_ネガティブ進化論_DECO_27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ネガティブ進化論",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_ネガティブ進化論_DECO_27.txt"
+    }
+  ]
+}
